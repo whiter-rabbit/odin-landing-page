@@ -10,6 +10,7 @@ body {
 .all {
     display: flex;
     flex-direction: column;
+   
 }
 
 .header-container {
@@ -118,8 +119,6 @@ body {
 .image-container figcaption{
     display: flex;
     flex-direction: column;
-    
-
 }
 
 .image-container img {
